@@ -15,11 +15,11 @@ A targeted promotion project for a retailer, based on customer segmentation(clus
 -----| data.table 1.10.4.2  
 -| Python version 3.6  
 ---| Python package: 
------| numpy 1.14.2
------| pandas 0.20.1 
------| sklearn 0.19.1
------| scipy 0.19.0
-matplotlib 2.0.2
+-----| numpy 1.14.2  
+-----| pandas 0.20.1   
+-----| sklearn 0.19.1  
+-----| scipy 0.19.0  
+matplotlib 2.0.2  
   
 Deployment  
 -| We do not share data for this project, the code is only here to display our process of solving this problem. 
