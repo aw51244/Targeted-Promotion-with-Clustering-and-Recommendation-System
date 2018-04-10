@@ -10,8 +10,8 @@ A targeted promotion project for a retailer, based on customer segmentation(clus
 ---| build a recommender for each segment of customers based on their yearly spending on different subcategories  
   
 **environment**  
--| R version 3.4.1  
----| R package: 
+-| R version 3.4.1    
+---| R package:   
 -----| data.table 1.10.4.2  
 -| Python version 3.6  
 ---| Python package: 
